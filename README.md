@@ -11,3 +11,5 @@ https://gstreamer.freedesktop.org/documentation/plugins.html
 [tutorial](https://brettviren.github.io/pygst-tutorial-org/pygst-tutorial.pdf)
 
 https://gstconf.ubicast.tv/ - Gstreamer Conference
+
+https://brettviren.github.io/pygst-tutorial-org/pygst-tutorial.pdf
