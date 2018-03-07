@@ -1,22 +1,35 @@
 # awesome-gstreamer
 Repositories, cool projects with gstreamer
 
-https://lazka.github.io/pgi-docs/
+[Gstreamer Home](https://gstreamer.freedesktop.org/)
+
+[GLib](https://developer.gnome.org/glib/stable/)
+[Gnome](https://developer.gnome.org/)
+
+
+[PyObject Documentation]https://lazka.github.io/pgi-docs/
 
 .C tutorials
 
-https://github.com/huamulan/gst-sdk-tutorial
-https://gstreamer.freedesktop.org/documentation/tutorials/basic/hello-world.html
+[Tutorials](https://github.com/huamulan/gst-sdk-tutorial)
+[Hello World](https://gstreamer.freedesktop.org/documentation/tutorials/basic/hello-world.html)
 
-https://github.com/GStreamer/gst-docs/tree/master/examples/tutorials
+[Official tutorials](https://github.com/GStreamer/gst-docs/tree/master/examples/tutorials)
 
-https://gstreamer.freedesktop.org/documentation/plugins.html
+[List of plugins](https://gstreamer.freedesktop.org/documentation/plugins.html)
 
+[Videos from GstreamerConference](https://gstconf.ubicast.tv/)
+[Gstreamer in Python. Intoduction](https://brettviren.github.io/pygst-tutorial-org/pygst-tutorial.pdf)
 
-[tutorial python](https://brettviren.github.io/pygst-tutorial-org/pygst-tutorial.pdf)
+Russian
 
-https://gstconf.ubicast.tv/ - Gstreamer Conference
+https://www.ibm.com/developerworks/ru/library/au-gstreamer/index.html
 
-https://brettviren.github.io/pygst-tutorial-org/pygst-tutorial.pdf
+https://habrahabr.ru/post/178813/
+
+https://habrahabr.ru/post/204014/
+
+https://habrahabr.ru/post/179167/
+
 
 
