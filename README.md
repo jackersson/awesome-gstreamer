@@ -24,7 +24,9 @@
 [Комплексная обработка мультимедиа при помощи GStreamer](https://www.ibm.com/developerworks/ru/library/au-gstreamer/index.html)
 
 [Знакомство с GStreamer: Введение](https://habrahabr.ru/post/178813/)
+
 [Знакомство с GStreamer: Источники данных](https://habrahabr.ru/post/179167/)
+
 [Знакомство с GStreamer: Устройства вывода](https://habrahabr.ru/post/204014/)
 
 
