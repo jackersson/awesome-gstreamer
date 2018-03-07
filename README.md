@@ -1,11 +1,11 @@
 # awesome-gstreamer
-Repositories, cool projects with gstreamer
+
+### English
 
 [Gstreamer Home](https://gstreamer.freedesktop.org/)
 
 [GLib](https://developer.gnome.org/glib/stable/)
 [Gnome](https://developer.gnome.org/)
-
 
 [PyObject Documentation](https://lazka.github.io/pgi-docs/)
 
@@ -19,15 +19,13 @@ Repositories, cool projects with gstreamer
 [Videos from GstreamerConference](https://gstconf.ubicast.tv/)
 [Gstreamer in Python. Intoduction](https://brettviren.github.io/pygst-tutorial-org/pygst-tutorial.pdf)
 
-Russian
+### Russian
 
-https://www.ibm.com/developerworks/ru/library/au-gstreamer/index.html
+[Комплексная обработка мультимедиа при помощи GStreamer](https://www.ibm.com/developerworks/ru/library/au-gstreamer/index.html)
 
-https://habrahabr.ru/post/178813/
-
-https://habrahabr.ru/post/204014/
-
-https://habrahabr.ru/post/179167/
+[Знакомство с GStreamer: Введение](https://habrahabr.ru/post/178813/)
+[Знакомство с GStreamer: Источники данных](https://habrahabr.ru/post/179167/)
+[Знакомство с GStreamer: Устройства вывода](https://habrahabr.ru/post/204014/)
 
 
 
