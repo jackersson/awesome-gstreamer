@@ -7,9 +7,7 @@ Repositories, cool projects with gstreamer
 [Gnome](https://developer.gnome.org/)
 
 
-[PyObject Documentation]https://lazka.github.io/pgi-docs/
-
-.C tutorials
+[PyObject Documentation](https://lazka.github.io/pgi-docs/)
 
 [Tutorials](https://github.com/huamulan/gst-sdk-tutorial)
 [Hello World](https://gstreamer.freedesktop.org/documentation/tutorials/basic/hello-world.html)
