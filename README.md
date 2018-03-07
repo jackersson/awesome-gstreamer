@@ -1,6 +1,12 @@
 # awesome-gstreamer
 
+#### Installation
+
+- [Official installation guide](https://gstreamer.freedesktop.org/documentation/installing/on-linux.html)
+
 ### English
+
+[Cheat Sheet](http://wiki.oz9aec.net/index.php/Gstreamer_cheat_sheet)
 
 [Gstreamer Home](https://gstreamer.freedesktop.org/)
 
