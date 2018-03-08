@@ -32,6 +32,7 @@ Gstreamer for Python built on top of PyGObject, so I suggest you to have a look 
 - [GStreamer in the living room and in outer space](https://www.youtube.com/watch?v=DRBzCASAm3g)
 - [GStreamer is in the air](https://gstconf.ubicast.tv/videos/gstreamer-is-in-the-air/#slide)
 - [My GStreamer-Enabled Home](https://gstconf.ubicast.tv/videos/my-gstreamer-enabled-home/#slide)
+- [Gstreamer for tiny Devices](https://www.youtube.com/watch?v=RE3ylldz-Fs)
 
 ### Russian
 
