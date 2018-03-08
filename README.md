@@ -34,6 +34,10 @@ Gstreamer for Python built on top of PyGObject, so I suggest you to have a look 
 - [My GStreamer-Enabled Home](https://gstconf.ubicast.tv/videos/my-gstreamer-enabled-home/#slide)
 - [Gstreamer for tiny Devices](https://www.youtube.com/watch?v=RE3ylldz-Fs)
 
+### Companies
+- [RidgeRun Engineering](https://www.youtube.com/channel/UCrOCAheHWwCKn5zfO_qShYQ) - nice tutorials for Cuda, Gstreamer Profiling with GstShark
+- [Collabora (Gstreamer Partner)](https://www.youtube.com/channel/UCPh7R2PWtJHmTfSGWuLkGTg/videos) 
+
 ### Russian
 
 [Комплексная обработка мультимедиа при помощи GStreamer](https://www.ibm.com/developerworks/ru/library/au-gstreamer/index.html)
