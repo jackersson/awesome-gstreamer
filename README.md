@@ -17,7 +17,7 @@
 
 #### Gstreamer for Python
 
-As gstreamer for Python almost all built with PyGObject, so I suggest you to have a look at mappings C->Python
+Gstreamer for Python built on top of PyGObject, so I suggest you to have a look at mappings GObject->PythonGObject, Gstreamer->Gst1.0, GstBase
 - [PyObject Documentation](https://lazka.github.io/pgi-docs/)
 - [Gst1.0](https://lazka.github.io/pgi-docs/#Gst-1.0)
 - [GstBase](https://lazka.github.io/pgi-docs/#GstBase-1.0)
