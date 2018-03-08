@@ -31,6 +31,7 @@ Gstreamer for Python built on top of PyGObject, so I suggest you to have a look 
 - [Synchronised multi-room multimedia playback and synchronised live media processing and mixing with G](https://www.youtube.com/watch?v=C7sH4TSc054)
 - [GStreamer in the living room and in outer space](https://www.youtube.com/watch?v=DRBzCASAm3g)
 - [GStreamer is in the air](https://gstconf.ubicast.tv/videos/gstreamer-is-in-the-air/#slide)
+- [My GStreamer-Enabled Home](https://gstconf.ubicast.tv/videos/my-gstreamer-enabled-home/#slide)
 
 ### Russian
 
