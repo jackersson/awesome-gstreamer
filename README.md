@@ -27,6 +27,9 @@ Gstreamer for Python built on top of PyGObject, so I suggest you to have a look 
 #### Gstreamer Conference
 - [Gstreamer Conference Video Archive](https://gstconf.ubicast.tv/) - videos collected from 2010 to 2017. There are a lot of useful tricks, fun applications and base knowledges
 
+##### Top Videos from Conference
+- [Synchronised multi-room multimedia playback and synchronised live media processing and mixing with G](https://www.youtube.com/watch?v=C7sH4TSc054)
+
 ### Russian
 
 [Комплексная обработка мультимедиа при помощи GStreamer](https://www.ibm.com/developerworks/ru/library/au-gstreamer/index.html)
