@@ -23,6 +23,9 @@ Gstreamer for Python built on top of PyGObject, so I suggest you to have a look 
 - [GstBase](https://lazka.github.io/pgi-docs/#GstBase-1.0)
 
 - [Gstreamer in Python. Intoduction (PDF)](https://brettviren.github.io/pygst-tutorial-org/pygst-tutorial.pdf)
+- [Getting started with Gstreamer in Python](https://www.jonobacon.com/2006/08/28/getting-started-with-gstreamer-with-python/)
+- [Using Gnonlin with Gstreamer and Python](https://www.jonobacon.com/2006/12/27/using-gnonlin-with-gstreamer-and-python/)
+- [Gstreamer dynamic Pads Explained](https://www.jonobacon.com/2006/12/27/using-gnonlin-with-gstreamer-and-python/)
 
 ### Gstreamer Conference
 - [Gstreamer Conference Video Archive](https://gstconf.ubicast.tv/) - videos collected from 2010 to 2017. There are a lot of useful tricks, fun applications and base knowledges
@@ -37,9 +40,12 @@ Gstreamer for Python built on top of PyGObject, so I suggest you to have a look 
 ### Companies
 - [RidgeRun Engineering](https://www.youtube.com/channel/UCrOCAheHWwCKn5zfO_qShYQ) - nice tutorials for Cuda, Gstreamer Profiling with GstShark
 - [Collabora (Gstreamer Partner)](https://www.youtube.com/channel/UCPh7R2PWtJHmTfSGWuLkGTg/videos) 
+- [Collabora (Blog)](https://www.collabora.com/about-us/open-source/open-source-projects/gstreamer.html)
+- [Igalia](https://www.igalia.com/nc/multimedia/?news_list_categorized%5Bnews_list_categorized.news_list%5D%5Bpage%5D=13&commits_list_categorized%5Bcommits_list_categorized.commits_list%5D%5Bpage%5D=72&no_cache=1)
 
 ### Awesome projects
 - [Gstreamer for Gravitational Waves](https://wiki.ligo.org/DASWG/GstLAL)
+- [Simple DVB with Gstreamer and GNU Radio](http://wiki.oz9aec.net/index.php/Simple_DVB_with_Gstreamer_and_GNU_Radio)
 
 ### Russian
 
