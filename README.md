@@ -38,6 +38,9 @@ Gstreamer for Python built on top of PyGObject, so I suggest you to have a look 
 - [RidgeRun Engineering](https://www.youtube.com/channel/UCrOCAheHWwCKn5zfO_qShYQ) - nice tutorials for Cuda, Gstreamer Profiling with GstShark
 - [Collabora (Gstreamer Partner)](https://www.youtube.com/channel/UCPh7R2PWtJHmTfSGWuLkGTg/videos) 
 
+### Awesome projects
+- [Gstreamer for Gravitational Waves](https://wiki.ligo.org/DASWG/GstLAL)
+
 ### Russian
 
 [Комплексная обработка мультимедиа при помощи GStreamer](https://www.ibm.com/developerworks/ru/library/au-gstreamer/index.html)
