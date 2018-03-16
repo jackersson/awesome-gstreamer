@@ -22,6 +22,8 @@ Gstreamer for Python built on top of PyGObject, so I suggest you to have a look 
 - [Gst1.0](https://lazka.github.io/pgi-docs/#Gst-1.0)
 - [GstBase](https://lazka.github.io/pgi-docs/#GstBase-1.0)
 
+- [Python Plugin Template](https://github.com/qtec/build-qt5022-core/wiki/GStreamer-Advanced#python-element-template)
+
 - [Gstreamer in Python. Intoduction (PDF)](https://brettviren.github.io/pygst-tutorial-org/pygst-tutorial.pdf)
 - [Getting started with Gstreamer in Python](https://www.jonobacon.com/2006/08/28/getting-started-with-gstreamer-with-python/)
 - [Using Gnonlin with Gstreamer and Python](https://www.jonobacon.com/2006/12/27/using-gnonlin-with-gstreamer-and-python/)
