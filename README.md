@@ -28,6 +28,7 @@ Gstreamer for Python built on top of PyGObject, so I suggest you to have a look 
 - [Getting started with Gstreamer in Python](https://www.jonobacon.com/2006/08/28/getting-started-with-gstreamer-with-python/)
 - [Using Gnonlin with Gstreamer and Python](https://www.jonobacon.com/2006/12/27/using-gnonlin-with-gstreamer-and-python/)
 - [Gstreamer dynamic Pads Explained](https://www.jonobacon.com/2006/12/27/using-gnonlin-with-gstreamer-and-python/)
+- [Gstreamer Hacks/Tutorials/Projects](http://lifestyletransfer.com/)
 
 ### Gstreamer Conference
 - [Gstreamer Conference Video Archive](https://gstconf.ubicast.tv/) - videos collected from 2010 to 2017. There are a lot of useful tricks, fun applications and base knowledges
