@@ -1,5 +1,8 @@
 
-- [Additional Gstreamer commands](https://github.com/matthew1000/gstreamer-cheat-sheet)
+## Additional Gstreamer commands
+1. [GStreamer command-line cheat sheet](https://github.com/matthew1000/gstreamer-cheat-sheet)
+2. [Gstreamer cheat sheet (Wiki)](http://wiki.oz9aec.net/index.php/Gstreamer_cheat_sheet)
+
 
 ## Mixing
 
