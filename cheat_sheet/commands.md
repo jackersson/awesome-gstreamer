@@ -1,4 +1,6 @@
 
+[Additional Gstreamer commands](https://github.com/matthew1000/gstreamer-cheat-sheet)
+
 ## Mixing
 
 - How to mix two test streams (**videobox**, **videomixer**)
