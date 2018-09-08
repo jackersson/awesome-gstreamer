@@ -1,7 +1,7 @@
 
 ## Mixing
 
-- How to mix two test streams
+- How to mix two test streams (**videobox**, **videomixer**)
 
       gst-launch-1.0 videomixer name=mixer ! gtksink \
       videotestsrc ! videoscale ! video/x-raw,width=960,height=540 ! \
