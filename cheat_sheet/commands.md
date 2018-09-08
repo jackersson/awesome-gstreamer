@@ -1,4 +1,13 @@
 
+## Mixing
+
+- How to mix two test streams
+
+      gst-launch-1.0 videomixer name=mixer ! gtksink \
+      videotestsrc ! videoscale ! video/x-raw,width=960,height=540 ! \
+      tee name=t !  queue ! videoconvert ! videobox left=-960 ! videoconvert ! mixer. \
+      t. ! queue ! videobox left=0  ! videoconvert ! mixer.
+      
 ## Networking
 
 ### TCP
