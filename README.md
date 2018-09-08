@@ -10,7 +10,7 @@
 - [List of plugins](https://gstreamer.freedesktop.org/documentation/plugins.html)
 
 ### Tutorials
-- [Cheat Sheet](http://wiki.oz9aec.net/index.php/Gstreamer_cheat_sheet) - simples commands to understand basic plugins and to try Gstreamer capabilities.
+- [Cheat Sheet](https://github.com/jackersson/awesome-gstreamer/blob/master/cheat_sheet/commands.md) - simples commands to understand basic plugins and to try Gstreamer capabilities.
 - [Tutorials. From official website](https://gstreamer.freedesktop.org/documentation/tutorials/index.html)
 - [Hello World](https://gstreamer.freedesktop.org/documentation/tutorials/basic/hello-world.html)
 - [Github Examples](https://github.com/GStreamer/gst-docs/tree/master/examples/tutorials)
