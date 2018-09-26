@@ -39,3 +39,13 @@
 - receive
 
       gst-launch-1.0 tcpclientsrc port=5000 ! jpegdec ! videoconvert ! autovideosink sync=true
+      
+## Video Record
+
+### RTSP
+
+#### Recording video to multiple files (duration 1 minute)
+    gst-launch-1.0 rtspsrc location=rtsp://admin:NewGen112233@192.168.10.25:554/Streaming/Channels/101/ ! \
+    rtph264depay ! h264parse ! splitmuxsink location=video%02d.mp4 max-size-time=60000000000
+
+
