@@ -45,7 +45,17 @@
 ### RTSP
 
 #### Recording video to multiple files (duration 1 minute)
-    gst-launch-1.0 rtspsrc location=rtsp://admin:NewGen112233@192.168.10.25:554/Streaming/Channels/101/ ! \
+    gst-launch-1.0 rtspsrc location=rtsp://... drop-on-latency=true latency=0 ! \
     rtph264depay ! h264parse ! splitmuxsink location=video%02d.mp4 max-size-time=60000000000
+    
+    
+## FPS measurements
+
+### RTSP
+
+    gst-launch-1.0 -v rtspsrc location=rtsp://... drop-on-latency=true latency=0 ! \
+    decodebin ! videoconvert ! video/x-raw,format=RGB ! videoconvert ! \
+    fpsdisplaysink video-sink=fakesink signal-fps-measurements=True
+
 
 
