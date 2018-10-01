@@ -63,7 +63,7 @@
     queue ! h264parse ! omxh264dec ! fpsdisplaysink video-sink=fakesink signal-fps-measurements=True
 
 
-## Format Convertion
+## Format Conversion
 
 ### H264 -> RGBA
 
