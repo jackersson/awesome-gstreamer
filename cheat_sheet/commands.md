@@ -56,6 +56,13 @@
     gst-launch-1.0 -v rtspsrc location=rtsp://... drop-on-latency=true latency=0 ! \
     decodebin ! videoconvert ! video/x-raw,format=RGB ! videoconvert ! \
     fpsdisplaysink video-sink=fakesink signal-fps-measurements=True
+    
+    
+### Jetson
+
+#### Convert video from file to RGB
+      gst-launch-1.0 filesrc location=video.mp4 ! qtdemux name=demux1 demux1.video_0 ! \
+      queue ! h264parse ! omxh264dec ! fpsdisplaysink video-sink=fakesink signal-fps-measurements=True
 
 
 
