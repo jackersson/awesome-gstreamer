@@ -63,4 +63,11 @@
     queue ! h264parse ! omxh264dec ! fpsdisplaysink video-sink=fakesink signal-fps-measurements=True
 
 
+## Format Convertion
 
+### H264 -> RGBA
+
+#### Jetson
+     gst-launch-1.0 -v -e filesrc location=video2560.mp4 ! qtdemux name=demux1 demux1.video_0 ! queue ! \
+     h264parse ! omxh264dec ! nvvidconv ! video/x-raw,format=RGBA ! \ 
+     fpsdisplaysink video-sink=fakesink signal-fps-measurements=True
