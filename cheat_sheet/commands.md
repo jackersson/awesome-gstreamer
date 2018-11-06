@@ -13,6 +13,11 @@
       tee name=t !  queue ! videoconvert ! videobox left=-960 ! videoconvert ! mixer. \
       t. ! queue ! videobox left=0  ! videoconvert ! mixer.
       
+## Join multiple video parts in one video
+
+    gst-launch-1.0 splitmuxsrc location=video*.mp4 ! h264parse ! mp4mux ! filesink location=out.mp4
+
+      
 ## Networking
 
 ### TCP
