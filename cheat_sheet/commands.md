@@ -76,3 +76,10 @@
      gst-launch-1.0 -v -e filesrc location=video2560.mp4 ! qtdemux name=demux1 demux1.video_0 ! queue ! \
      h264parse ! omxh264dec ! nvvidconv ! video/x-raw,format=RGBA ! \ 
      fpsdisplaysink video-sink=fakesink signal-fps-measurements=True
+     
+     
+## Take snapshot
+
+### RTSP
+     gst-launch-1.0 -v rtspsrc location=... drop-on-latency=true latency=0 num-buffers=1 ! \
+     decodebin  !  videoconvert ! jpegenc ! multifilesink location=img101.jpg
