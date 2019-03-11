@@ -16,6 +16,10 @@
 ## Join multiple video parts in one video
 
     gst-launch-1.0 splitmuxsrc location=video*.mp4 ! h264parse ! mp4mux ! filesink location=out.mp4
+    
+### Using FFMPEG
+
+    ffmpeg -f concat -safe 0 -i <(for f in ./*.mp4; do echo "file '$PWD/$f'"; done) -c copy all.mp4
 
       
 ## Networking
@@ -77,9 +81,13 @@
      h264parse ! omxh264dec ! nvvidconv ! video/x-raw,format=RGBA ! \ 
      fpsdisplaysink video-sink=fakesink signal-fps-measurements=True
      
+### MPEG -> MP4
+     gst-launch-1.0 filesrc location=video.mpeg ! mpegpsdemux ! h264parse ! mp4mux ! filesink location=video.mp4 sync=False -e
      
 ## Take snapshot
 
 ### RTSP
      gst-launch-1.0 -v rtspsrc location=... drop-on-latency=true latency=0 num-buffers=1 ! \
      decodebin  !  videoconvert ! jpegenc ! multifilesink location=img101.jpg
+     
+     
