@@ -97,4 +97,5 @@
 - scales video to Full HD (1920x1080)
 
       gst-launch-1.0  filesrc location=video.mp4 ! decodebin ! videoconvert ! videoscale ! \
-      video/x-raw,width=1920,height=1080 ! videoconvert ! x264enc tune=zerolatency bitrate=16384 ! filesink location=video.mp4
+      video/x-raw,width=1920,height=1080 ! videoconvert ! \
+      x264enc tune=zerolatency bitrate=16384 ! filesink location=video.mp4 -e
