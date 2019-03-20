@@ -99,3 +99,10 @@
       gst-launch-1.0  filesrc location=video.mp4 ! decodebin ! videoconvert ! videoscale ! \
       video/x-raw,width=1920,height=1080 ! videoconvert ! \
       x264enc tune=zerolatency bitrate=16384 ! filesink location=video.mp4 -e
+      
+### Change FPS of video (Using videorate plugin)
+- making video with 15 FPS
+
+      gst-launch-1.0  filesrc location=video.mp4 ! decodebin ! videoconvert ! \ 
+      videorate ! video/x-raw,framerate=15/1 ! videoconvert ! \
+      x264enc tune=zerolatency bitrate=16384 ! filesink location=video.mp4
