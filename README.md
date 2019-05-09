@@ -51,15 +51,3 @@ Gstreamer for Python built on top of PyGObject, so I suggest you to have a look 
 - [Gstreamer for Gravitational Waves](https://wiki.ligo.org/DASWG/GstLAL)
 - [Simple DVB with Gstreamer and GNU Radio](http://wiki.oz9aec.net/index.php/Simple_DVB_with_Gstreamer_and_GNU_Radio)
 
-### Russian
-
-[Комплексная обработка мультимедиа при помощи GStreamer](https://www.ibm.com/developerworks/ru/library/au-gstreamer/index.html)
-
-[Знакомство с GStreamer: Введение](https://habrahabr.ru/post/178813/)
-
-[Знакомство с GStreamer: Источники данных](https://habrahabr.ru/post/179167/)
-
-[Знакомство с GStreamer: Устройства вывода](https://habrahabr.ru/post/204014/)
-
-
-
