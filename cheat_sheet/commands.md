@@ -106,3 +106,10 @@
       gst-launch-1.0  filesrc location=video.mp4 ! decodebin ! videoconvert ! \ 
       videorate ! video/x-raw,framerate=15/1 ! videoconvert ! \
       x264enc tune=zerolatency bitrate=16384 ! filesink location=video.mp4
+      
+## Streaming from Youtube
+    gst-launch-1.0 souphttpsrc is-live=true location="$(youtube-dl -f mp4 -g https://www.youtube.com/watch?v=xjDjIWPwcPU)" \
+    ! decodebin ! videoconvert ! gtksink sync=false
+**Note**: 
+- [youtube-dl](https://youtube-dl.org/) allows to get HTTPS URL for youtube video link. 
+   
