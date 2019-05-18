@@ -50,3 +50,7 @@
 - [Gstreamer for Gravitational Waves](https://wiki.ligo.org/DASWG/GstLAL)
 - [Simple DVB with Gstreamer and GNU Radio](http://wiki.oz9aec.net/index.php/Simple_DVB_with_Gstreamer_and_GNU_Radio)
 
+### How to
+- [How to loop video?](https://gist.github.com/jackersson/7c476f6293cb74ff0d97101304a005c0)
+
+
