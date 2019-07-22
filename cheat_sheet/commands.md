@@ -112,4 +112,7 @@
     ! decodebin ! videoconvert ! gtksink sync=false
 **Note**: 
 - [youtube-dl](https://youtube-dl.org/) allows to get HTTPS URL for youtube video link. 
+
+
+## [Splitting/Sharing pipeline](https://github.com/matthew1000/gstreamer-cheat-sheet/blob/master/sharing_and_splitting_pipelines.md#summary-of-methods-to-share-and-split-pipelines)
    
