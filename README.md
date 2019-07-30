@@ -29,6 +29,7 @@
 - [Gstreamer dynamic Pads Explained](https://www.jonobacon.com/2006/12/27/using-gnonlin-with-gstreamer-and-python/)
 - [Gstreamer Hacks/Tutorials/Projects](http://lifestyletransfer.com/)
 - [Building Video Player with Gstreamer on Python](https://medium.com/@Gnaphron/gst-r-eamer-in-a-cockleshell-46236d02a74e)
+- [How to write Gstreamer plugins in Python (audio)](https://mathieuduponchelle.github.io/2018-02-01-Python-Elements.html?gi-language=undefined)
 
 ### Gstreamer Conference
 - [Gstreamer Conference Video Archive](https://gstconf.ubicast.tv/) - videos collected from 2010 to 2018. There are a lot of useful tricks, fun applications and base knowledges
