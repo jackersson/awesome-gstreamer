@@ -25,8 +25,7 @@
 
 - Split single video into 60 sec pieces:
 
-      gst-launch-1.0 filesrc location=video.mp4 ! qtdemux ! h264parse ! 
-      splitmuxsink max-size-time=60000000000 location=piece%02d.mp4
+      gst-launch-1.0 filesrc location=video.mp4 ! qtdemux ! h264parse ! splitmuxsink max-size-time=60000000000 location=piece%02d.mp4
       
 ## Networking
 
