@@ -1,6 +1,6 @@
 # awesome-gstreamer
 
-![](https://gstreamer.freedesktop.org/images/header-logo-top.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Gstreamer-logo.svg/1200px-Gstreamer-logo.svg.png)
 
 ## Official Resources
 - [Gstreamer. Website](https://gstreamer.freedesktop.org/)
