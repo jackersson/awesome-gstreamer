@@ -53,6 +53,7 @@
 - [NNStreamer. Samsung](https://github.com/nnsuite/nnstreamer)
 - [Gst-Inference. RidgeRun](https://github.com/RidgeRun/gst-inference)
 - [DeepStream SDK. Nvidia](https://developer.nvidia.com/deepstream-sdk)
+    - [Github Repository with Awesome Projects](https://github.com/NVIDIA-AI-IOT) 
 - [Gst-Video-Analytics. OpenCV](https://github.com/opencv/gst-video-analytics)
 - [Overview and Comparison Table for Video Analytics Frameworks](http://lifestyletransfer.com/deep-learning-video-analytics-gstreamer/)
 
