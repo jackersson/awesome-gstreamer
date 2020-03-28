@@ -1,7 +1,15 @@
 # awesome-gstreamer
 
+![](https://gstreamer.freedesktop.org/images/header-logo-top.png)
+
+## Official Resources
+- [Gstreamer. Website](https://gstreamer.freedesktop.org/)
+- [Twitter Account](https://twitter.com/gstreamer)
+- [#gstreamer IRC channel](https://freenode.net/)
+- [Gstreamer. Conferences](https://gstconf.ubicast.tv/)
+
 ### Installation
-- [Official installation guide](https://gstreamer.freedesktop.org/documentation/installing/on-linux.html)
+- [Official Guide](https://gstreamer.freedesktop.org/documentation/installing/index.html?gi-language=c)
 
 ### Official 
 - [Gstreamer. Website](https://gstreamer.freedesktop.org/)
