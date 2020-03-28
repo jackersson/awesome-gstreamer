@@ -9,7 +9,8 @@
 - [Gstreamer. Conferences](https://gstconf.ubicast.tv/)
 
 ### Installation
-- [Official Guide](https://gstreamer.freedesktop.org/documentation/installing/index.html?gi-language=c)
+- [Official Guides](https://gstreamer.freedesktop.org/documentation/installing/index.html?gi-language=c)
+- [Ubuntu. Installation](http://lifestyletransfer.com/how-to-install-gstreamer-on-ubuntu/)
 
 ### Official 
 - [Gstreamer. Website](https://gstreamer.freedesktop.org/)
