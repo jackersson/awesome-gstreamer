@@ -6,7 +6,9 @@
 - [Gstreamer. Website](https://gstreamer.freedesktop.org/)
 - [Gstreamer. Plugins](https://gstreamer.freedesktop.org/documentation/plugins_doc.html?gi-language=c)
 - [Twitter Account](https://twitter.com/gstreamer)
+    - interesting news, links, thoughts 
 - [#gstreamer IRC channel](https://freenode.net/)
+    - responsive, kind developers that always can help with any question.
 - [Gstreamer. Conferences](https://gstconf.ubicast.tv/)
     - videos collected from 2010 to present. There are a lot of useful tricks, fun applications and base knowledges
 
@@ -39,7 +41,6 @@
 ### Videos
 - [Ridge Run. Youtube Channel](https://www.youtube.com/channel/UCrOCAheHWwCKn5zfO_qShYQ/videos)
 - [Collabora. Youtube Channel](https://www.youtube.com/channel/UCPh7R2PWtJHmTfSGWuLkGTg/videos)
-
 
 ### Video Analytics Frameworks based on Gstreamer
 - [NNStreamer. Samsung](https://github.com/nnsuite/nnstreamer)
