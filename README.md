@@ -30,6 +30,12 @@
     - [GstVideo](https://lazka.github.io/pgi-docs/#GstVideo-1.0)
     - [GstApp](https://lazka.github.io/pgi-docs/#GstApp-1.0)
     - [GstRTSP](https://lazka.github.io/pgi-docs/#GstRtsp-1.0)
+- Tutorials
+    - [How to write Gstreamer plugin with Python?](http://lifestyletransfer.com/how-to-write-gstreamer-plugin-with-python/)
+    - [How to launch Gstreamer pipleine from Python](http://lifestyletransfer.com/how-to-launch-gstreamer-pipeline-in-python/)
+    - [How to capture buffers from Gstreamer pipelines with AppSink](http://lifestyletransfer.com/how-to-use-gstreamer-appsink-in-python/)
+    - [How to push buffers into Gstreamer pipeline with AppSrc](http://lifestyletransfer.com/how-to-use-gstreamer-appsink-in-python/)
+    - [How to work with Metadata in Python](http://lifestyletransfer.com/how-to-add-metadata-to-gstreamer-buffer-in-python/)
 
 ### Blogs
 - [LifeStyleTransfer. Content](http://lifestyletransfer.com/content/)
