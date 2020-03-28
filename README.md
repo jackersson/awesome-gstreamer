@@ -44,9 +44,10 @@
 
 ### Video Analytics Frameworks based on Gstreamer
 - [NNStreamer. Samsung](https://github.com/nnsuite/nnstreamer)
-- [Gst-Inference. RidgeRun](https://github.com/RidgeRun/gst-inference
+- [Gst-Inference. RidgeRun](https://github.com/RidgeRun/gst-inference)
 - [DeepStream SDK. Nvidia](https://developer.nvidia.com/deepstream-sdk)
 - [Gst-Video-Analytics. OpenCV](https://github.com/opencv/gst-video-analytics)
+- [Overview and Comparison Table for Video Analytics Frameworks](http://lifestyletransfer.com/deep-learning-video-analytics-gstreamer/)
 
 ### Useful Gstreamer Pipelines
 - [Cheat Sheet](https://github.com/jackersson/awesome-gstreamer/blob/master/cheat_sheet/commands.md) - simples commands to understand basic plugins and to try Gstreamer capabilities.
@@ -76,6 +77,14 @@
 - [My GStreamer-Enabled Home](https://gstconf.ubicast.tv/videos/my-gstreamer-enabled-home/#slide)
 - [GStreamer in the living room and in outer space](https://www.youtube.com/watch?v=DRBzCASAm3g)
 - [GStreamer is in the air](https://gstconf.ubicast.tv/videos/gstreamer-is-in-the-air/#slide)
+
+### Edge Platforms
+- [Google Coral TPU. Gstreamer Pipelines](https://github.com/google-coral/examples-camera/tree/master/gstreamer)
+- [Nvidia Jetson, Gstreamer Pipelines](https://developer.download.nvidia.com/embedded/L4T/r32_Release_v1.0/Docs/Accelerated_GStreamer_User_Guide.pdf?i_Y2wpVYeC4aKDkehQNi7nZijaqPu-zUqO228keXSjtyD_7FHVxEAYFmYhzbmT-MgdoAimuP1FuS62KQPIADER2TQ0BaCa0MJNpQLjDYzEzqhZtQEKo6q2RiyXtc4vhbHiUxfvJ8mfLS8Sn-_USkttoqhaLmk5Epe_--Sh4rapNOZ-lHYq8)
+
+### Hardware-Accelerated Video Processing
+- [Accelerated Gstreamer Guide. Nvidia](https://developer.download.nvidia.com/embedded/L4T/r32_Release_v1.0/Docs/Accelerated_GStreamer_User_Guide.pdf?i_Y2wpVYeC4aKDkehQNi7nZijaqPu-zUqO228keXSjtyD_7FHVxEAYFmYhzbmT-MgdoAimuP1FuS62KQPIADER2TQ0BaCa0MJNpQLjDYzEzqhZtQEKo6q2RiyXtc4vhbHiUxfvJ8mfLS8Sn-_USkttoqhaLmk5Epe_--Sh4rapNOZ-lHYq8)
+
 
 ### How to
 - [How to loop video?](https://gist.github.com/jackersson/7c476f6293cb74ff0d97101304a005c0)
