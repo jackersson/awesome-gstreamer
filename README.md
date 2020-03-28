@@ -21,6 +21,7 @@
 ### Installation
 - [Official Guides](https://gstreamer.freedesktop.org/documentation/installing/index.html?gi-language=c)
 - [Ubuntu. Installation](http://lifestyletransfer.com/how-to-install-gstreamer-on-ubuntu/)
+    - [Docker Containers](https://github.com/jackersson/env-setup)
 
 ### Gstreamer Python
 - [PyGObject](https://pygobject.readthedocs.io/en/latest/)
