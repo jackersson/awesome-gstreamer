@@ -11,6 +11,7 @@
     - responsive, kind developers that always can help with any question.
 - [Gstreamer. Conferences](https://gstconf.ubicast.tv/)
     - videos collected from 2010 to present. There are a lot of useful tricks, fun applications and base knowledges
+- [Gstreamer Developers Forum](http://gstreamer-devel.966125.n4.nabble.com/)
 
 ### Dependencies
 - [GLib. Reference Manual](https://developer.gnome.org/glib/stable/) 
