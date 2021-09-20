@@ -4,6 +4,24 @@
 2. [Gstreamer cheat sheet (Wiki)](http://wiki.oz9aec.net/index.php/Gstreamer_cheat_sheet)
 
 
+### List video cameras (Ubuntu)
+```
+ls -ltrh /dev/video*
+
+> crw-rw----+ 1 root video 81, 1 sep 20 08:43 /dev/video1
+> crw-rw----+ 1 root video 81, 0 sep 20 08:43 /dev/video0
+```
+
+### Check video camera format (Ubuntu)
+```
+apt install v4l-utils
+
+v4l2-ctl -d /dev/video0 --list-formats-ext
+
+```
+
+
+
 ## Mixing
 
 - How to mix two test streams (**videobox**, **videomixer**)
