@@ -74,6 +74,11 @@ v4l2-ctl -d /dev/video0 --list-formats-ext
       
 ## Video Record
 
+### From webcam
+```
+gst-launch-1.0 v4l2src ! videoconvert ! x264enc tune=zerolatency pass=quant !  h264parse ! mp4mux ! filesink location=video.mp4 -e
+```
+
 ### RTSP
 
 #### Recording video to multiple files (duration 1 minute)
