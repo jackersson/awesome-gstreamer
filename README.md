@@ -81,7 +81,7 @@
 - [Proper AppSrc Pipeline Implemetation](https://programtalk.com/vs2/python/543/kaldi-gstreamer-server/kaldigstserver/decoder.py/)
 
 ### Awesome projects
-- [Gstreamer for Gravitational Waves](https://wiki.ligo.org/DASWG/GstLAL)
+- [Gstreamer for Gravitational Waves](https://wiki.ligo.org/Computing/DASWG/GstLAL)
 - [Simple DVB with Gstreamer and GNU Radio](http://wiki.oz9aec.net/index.php/Simple_DVB_with_Gstreamer_and_GNU_Radio)
 - [My GStreamer-Enabled Home](https://gstconf.ubicast.tv/videos/my-gstreamer-enabled-home/#slide)
 - [GStreamer in the living room and in outer space](https://www.youtube.com/watch?v=DRBzCASAm3g)
